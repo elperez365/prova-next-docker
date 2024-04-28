@@ -22,6 +22,8 @@ export default function Home() {
           >
             <p className="m-0">Powered by</p>
             <p>okokk</p>
+            <h1 className="sr-only">Vercel</h1>
+            <p>ppppp</p>
             By{" "}
             <Image
               src="/vercel.svg"
