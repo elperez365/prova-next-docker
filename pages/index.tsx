@@ -20,6 +20,8 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
+            <p className="m-0">Powered by</p>
+            <p>okokk</p>
             By{" "}
             <Image
               src="/vercel.svg"
